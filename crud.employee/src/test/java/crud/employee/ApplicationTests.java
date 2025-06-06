@@ -1,10 +1,10 @@
-package com.example.calci;
+package crud.employee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CalciApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
